@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murtaza0125
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning python
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me https://www.linkedin.com/in/mali2501/
 
