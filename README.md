@@ -11,7 +11,7 @@ I'm a software engineer always learning new stuff.
 * ✉️  You can contact me at [murtaza.hussain2501@gmail.com](mailto:murtaza.hussain2501@gmail.com)
 * 🚀  I'm currently working on [Recommendation System](http://murtaza.info)
 * 🧠  I'm learning Microsoft Azure
-* 🤝  I'm open to collaborating on Machine Learning Projects
+* 🤝  I'm open to collaborating on React and NodeJS Projects
 
 ### Skills
 
