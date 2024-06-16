@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murtaza Ali
 ===================================================================================================================================
 
-Data Scientist
+Software Engineer
 --------------
 
-As a data scientist, I am driven by a passion for uncovering meaningful insights from complex datasets and turning them into actionable solutions. With a strong background in statistics, programming, and machine learning, I possess the technical expertise to extract value from diverse data sources.
+I'm a software engineer always learning new stuff.
 
 * 🌍  I'm based in Ottawa, Canada
 * 🖥️  See my portfolio at [murtaza.info](http://murtaza.info)
