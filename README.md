@@ -9,7 +9,7 @@ I'm a software engineer always learning new stuff.
 * 🌍  I'm based in Ottawa, Canada
 * 🖥️  See my portfolio at [murtaza.info](http://murtaza.info)
 * ✉️  You can contact me at [murtaza.hussain2501@gmail.com](mailto:murtaza.hussain2501@gmail.com)
-* 🚀  I'm currently working on [Recommendation System](http://murtaza.info)
+* 🚀  I'm currently working on [E-commerce website based on React and NodeJS](http://murtaza.info)
 * 🧠  I'm learning Microsoft Azure
 * 🤝  I'm open to collaborating on React and NodeJS Projects
 
