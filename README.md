@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical Solutions Engineer
 --------------
 
-I'm a software engineer always learning new stuff.
+I'm an enthusiastic engineer always learning new stuff.
 
 * 🌍  I'm based in Ottawa, Canada
 * 🖥️  See my portfolio at [murtaza.info](http://murtaza.info)
